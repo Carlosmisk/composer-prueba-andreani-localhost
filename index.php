@@ -3,6 +3,6 @@
 require "vendor/autoload.php";
 
 
-echo "שלום";
+echo "שלום עולם"
 
 ?>
