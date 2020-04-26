@@ -1,0 +1,31 @@
+[
+    {
+        "name": "andreani/sdk-php",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/eandreani/sdk-php.git",
+            "reference": "3fe5738ec9c2ddbc34e850bd8e89d730772ef167"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/eandreani/sdk-php/zipball/3fe5738ec9c2ddbc34e850bd8e89d730772ef167",
+            "reference": "3fe5738ec9c2ddbc34e850bd8e89d730772ef167",
+            "shasum": ""
+        },
+        "time": "2018-01-10T16:29:22+00:00",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "psr-0": {
+                "Andreani": "src"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "Unlicense"
+        ],
+        "description": "SDK de Andreani para PHP"
+    }
+]

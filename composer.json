@@ -1,0 +1,9 @@
+
+{
+    "name": "probando-composer-domingo",
+    "type": "projet",
+    "description": "Probando composer SDK Andreani",
+    "require": {
+        "andreani/sdk-php": "dev-master"
+    }
+}
